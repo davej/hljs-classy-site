@@ -1,0 +1,18 @@
+{
+  "name": "hljs-classySite",
+  "version": "0.0.0",
+  "description": "highlight.js syntaxes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davej/hljs-classySite.git"
+  },
+  "author": "Dave Jeffery",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davej/hljs-classySite/issues"
+  },
+  "homepage": "https://github.com/davej/hljs-classySite"
+}
